@@ -1,2 +1,1 @@
-# AccGyro
-A Simple Midi Controller
+# AccGyro is a simple Midi Controller based on ADXL Sensor and 8051 MCU
